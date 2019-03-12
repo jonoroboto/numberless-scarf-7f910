@@ -1,0 +1,17 @@
+---
+label: Palette
+is_partial: true
+fields:
+  - type: field_group
+    name: sass
+    label: Sass
+    fields:
+      - type: text
+        name: color
+        label: Color
+  - type: text
+    name: type
+    label: Reference Type Name
+    description: Name of the object model if it was referenced
+    hidden: true
+    default: palette

@@ -1,0 +1,25 @@
+---
+label: Elements
+hide_body: true
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Page Title
+    config:
+      required: true
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: elements
+    config:
+      required: true
+  - type: text
+    name: type
+    label: Reference Type Name
+    description: Name of the object model if it was referenced
+    hidden: true
+    default: elements
+pages:
+  - elements.md

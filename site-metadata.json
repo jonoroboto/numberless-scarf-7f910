@@ -1,0 +1,56 @@
+{
+    "footer": {
+        "social_icons": [
+            {
+                "title": "Twitter",
+                "url": "#",
+                "icon": "fa-twitter"
+            },
+            {
+                "title": "Facebook",
+                "url": "#",
+                "icon": "fa-facebook"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "#",
+                "icon": "fa-linkedin"
+            },
+            {
+                "title": "Github",
+                "url": "#",
+                "icon": "fa-github"
+            },
+            {
+                "title": "Email",
+                "url": "#",
+                "icon": "fa-envelope"
+            }
+        ],
+        "copyright": "&copy; Construct. All rights reserved. Lorem ipsum dolor sit amet nullam consequat."
+    },
+    "palette": "blue",
+    "palettes": {
+        "blue": {
+            "sass": {
+                "color": "#4a74c9"
+            }
+        },
+        "cyan": {
+            "sass": {
+                "color": "#33bdb5"
+            }
+        },
+        "green": {
+            "sass": {
+                "color": "#459e59"
+            }
+        },
+        "red": {
+            "sass": {
+                "color": "#ce5667"
+            }
+        }
+    },
+    "title": "Construct"
+}
